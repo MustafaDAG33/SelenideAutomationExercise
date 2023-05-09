@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="22.615" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Verify Product quantity in Cart" name="TC13 Verify Product quantity in Cart" time="22.24">
+<system-out><![CDATA[
+Given Click View Product for any product on home page.......................passed
+When Verify product detail is opened........................................passed
+Then Increase quantity to four..............................................passed
+Then Click Add to cart button...............................................passed
+Then Click View Cart button.................................................passed
+Then Verify that product is displayed in cart page with exact quantity......passed
+]]></system-out>
+</testcase>
+</testsuite>
